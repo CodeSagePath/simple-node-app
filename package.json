@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-app",
+  "version": "0.1.0",
+  "description": "Simple app in Node.js",
+  "license": "MIT",
+  "author": "CodeSagePath",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
